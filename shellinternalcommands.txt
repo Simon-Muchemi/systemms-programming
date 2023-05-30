@@ -1,0 +1,6 @@
+echo dsplay text to the terminalwindow
+set assigns a value to a shell variable
+setenv sets an environment variable 
+unset deletes a shell variable
+unsetenv deletes a an environment variable
+ 

@@ -1,0 +1,6 @@
+
+cd change directory
+mv move directory
+ls list files and directory
+mkdir make directory
+

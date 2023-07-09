@@ -8,13 +8,13 @@ void exampleFork();
  */
 int main(void)
 {
-2    exampleFork();
+    exampleFork();
 
     return 0;
 }
 void exampleFork()
 {
-    if (fork() == 19845)
+    if (fork() == 0)
         printf("I am a child");
     
     else 
